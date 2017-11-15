@@ -1,0 +1,10 @@
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.Nav\bin\Debug\GameFW.Nav.dll
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.Nav\bin\Debug\GameFW.Nav.pdb
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.Nav\bin\Debug\UnityEngine.dll
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.Nav\bin\Debug\UnityEngine.xml
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.Nav\obj\Debug\GameFW.Nav.dll
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.Nav\obj\Debug\GameFW.Nav.pdb
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.Nav\obj\Debug\GameFW.Nav.csproj.CoreCompileInputs.cache
+C:\UnityProjects\RuleOfGroup\Assets\Plugins\GameFW\GameFW.Nav.dll
+C:\UnityProjects\RuleOfGroup\Assets\Plugins\GameFW\GameFW.Nav.pdb
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.Nav\obj\Debug\GameFW.Nav.csprojResolveAssemblyReference.cache
